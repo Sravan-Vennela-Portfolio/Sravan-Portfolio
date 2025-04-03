@@ -22,13 +22,13 @@ export function Hero() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp">
           <BrowserRouter>
-            <a href="https://www.linkedin.com/in/sravan-v-07a30933a/" className="button">Contact</a>
+            <a href="https://www.linkedin.com/in/sravan-vennela-07a30933a/" className="button">Contact</a>
           </BrowserRouter>
         </ScrollAnimation>
         
         <ScrollAnimation animateIn="fadeInUp">
       <div className="social-media"><a
-        href="https://www.linkedin.com/in/sravan-v-07a30933a/"
+        href="https://www.linkedin.com/in/sravan-vennela-07a30933a/"
         target="_blank"
         rel="noreferrer"
       >
