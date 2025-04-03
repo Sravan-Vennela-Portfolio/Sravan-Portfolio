@@ -1,13 +1,13 @@
 import { Container } from "./styles";
 import Sravan from "../../assets/sravan.jpg";
 import htmlIcon from "../../assets/html-icon.svg";
-import mysqlIcon from "../../assets/mysql-icon.svg";
+// import mysqlIcon from "../../assets/mysql-icon.svg";
 import vscodeIcon from "../../assets/vscode-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
-import nodeIcon from "../../assets/node-icon.svg";
+// import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
-import typescriptIcon from "../../assets/typescript-icon.svg";
+// import typescriptIcon from "../../assets/typescript-icon.svg";
 import bootstrapIcon from "../../assets/bootstrap-icon.svg";
 import angularIcon from "../../assets/angular-icon.png";
 import figma from "../../assets/figma.svg"
